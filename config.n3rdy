@@ -1,0 +1,7 @@
+#Configuração MYSQL | Não dê espaço nas informações.
+server:127.0.0.1
+user:root
+pass:132490Kj@br=
+table_csm:cliente
+table_sell:vendas
+database:loja
