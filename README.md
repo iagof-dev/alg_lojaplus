@@ -1,0 +1,3 @@
+# alg_lojaplus
+Algoritmo de painel de vendas de loja
+baseado em um antigo feito na escola so que melhor...
